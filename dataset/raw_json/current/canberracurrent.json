@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "Canberra",
+        "region": "Australian Capital Territory",
+        "country": "Australia",
+        "lat": -35.2833,
+        "lon": 149.2167,
+        "tz_id": "Australia/Sydney",
+        "localtime_epoch": 1763493396,
+        "localtime": "2025-11-19 06:16"
+    },
+    "current": {
+        "last_updated_epoch": 1763493300,
+        "last_updated": "2025-11-19 06:15",
+        "temp_c": 7.2,
+        "temp_f": 45.0,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 340,
+        "wind_dir": "NNW",
+        "pressure_mb": 1011.0,
+        "pressure_in": 29.85,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 93,
+        "cloud": 0,
+        "feelslike_c": 7.1,
+        "feelslike_f": 44.9,
+        "windchill_c": 12.7,
+        "windchill_f": 54.8,
+        "heatindex_c": 12.1,
+        "heatindex_f": 53.7,
+        "dewpoint_c": 5.2,
+        "dewpoint_f": 41.3,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 3.6,
+        "gust_kph": 5.8,
+        "air_quality": {
+            "co": 90.85,
+            "no2": 3.75,
+            "o3": 50.0,
+            "so2": 1.25,
+            "pm2_5": 2.15,
+            "pm10": 2.35,
+            "us-epa-index": 1,
+            "gb-defra-index": 1
+        },
+        "short_rad": 0.76,
+        "diff_rad": 0.33,
+        "dni": 2.82,
+        "gti": 1.15
+    }
+}

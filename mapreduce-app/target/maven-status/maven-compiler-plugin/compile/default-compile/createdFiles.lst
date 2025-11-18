@@ -1,0 +1,4 @@
+com/eafit/hadoop/WeatherAverageTempMapper.class
+com/eafit/hadoop/App.class
+com/eafit/hadoop/WeatherAverageTempReducer.class
+com/eafit/hadoop/WeatherAverageTempDriver.class

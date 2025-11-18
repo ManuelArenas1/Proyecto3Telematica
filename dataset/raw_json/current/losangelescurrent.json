@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "Los Angeles",
+        "region": "California",
+        "country": "United States of America",
+        "lat": 34.0522,
+        "lon": -118.2428,
+        "tz_id": "America/Los_Angeles",
+        "localtime_epoch": 1763493456,
+        "localtime": "2025-11-18 11:17"
+    },
+    "current": {
+        "last_updated_epoch": 1763493300,
+        "last_updated": "2025-11-18 11:15",
+        "temp_c": 14.4,
+        "temp_f": 57.9,
+        "is_day": 1,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+            "code": 1003
+        },
+        "wind_mph": 5.1,
+        "wind_kph": 8.3,
+        "wind_degree": 163,
+        "wind_dir": "SSE",
+        "pressure_mb": 1015.0,
+        "pressure_in": 29.96,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 65,
+        "cloud": 75,
+        "feelslike_c": 14.1,
+        "feelslike_f": 57.4,
+        "windchill_c": 14.3,
+        "windchill_f": 57.8,
+        "heatindex_c": 14.4,
+        "heatindex_f": 57.9,
+        "dewpoint_c": 10.1,
+        "dewpoint_f": 50.1,
+        "vis_km": 16.0,
+        "vis_miles": 9.0,
+        "uv": 2.7,
+        "gust_mph": 5.9,
+        "gust_kph": 9.5,
+        "air_quality": {
+            "co": 452.85,
+            "no2": 67.95,
+            "o3": 19.0,
+            "so2": 21.35,
+            "pm2_5": 28.15,
+            "pm10": 29.75,
+            "us-epa-index": 2,
+            "gb-defra-index": 3
+        },
+        "short_rad": 566.1,
+        "diff_rad": 84.39,
+        "dni": 0.0,
+        "gti": 86.86
+    }
+}

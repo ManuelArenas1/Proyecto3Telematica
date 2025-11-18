@@ -1,0 +1,166 @@
+source,city,date,temp_c,humidity,wind_kph,precip_mm,condition
+current,Johannesburg,2025-11-18,17.1,72,8.3,0.0,Partly Cloudy
+current,Los Angeles,2025-11-18,14.4,65,8.3,0.0,Partly cloudy
+current,Tokyo,2025-11-19,9.2,53,17.6,0.0,Clear
+current,Oslo,2025-11-18,-1.8,93,4.7,0.0,Light snow
+current,Rome,2025-11-18,13.2,100,3.6,0.01,Partly cloudy
+current,Beijing,2025-11-19,4.3,38,4.7,0.0,Clear
+current,Bogota,2025-11-18,21.2,46,3.6,0.79,Partly cloudy
+current,New York,2025-11-18,7.2,36,21.2,0.0,Sunny
+current,Miami,2025-11-18,27.2,51,14.4,0.0,Sunny
+current,London,2025-11-18,5.3,87,12.6,0.01,Patchy rain nearby
+current,Canberra,2025-11-19,7.2,93,3.6,0.0,Sunny
+forecast,Oslo,2025-11-18,-0.4,66,5.0,0.93,Patchy moderate snow
+forecast,Oslo,2025-11-19,-2.6,90,12.6,8.04,Heavy snow
+forecast,Oslo,2025-11-20,-6.6,84,6.8,0.0,Sunny
+forecast,Oslo,2025-11-21,-8.4,86,5.4,0.0,Sunny
+forecast,Oslo,2025-11-22,-8.2,83,4.3,0.6,Patchy moderate snow
+forecast,Oslo,2025-11-23,-8.6,82,5.4,0.0,Partly Cloudy 
+forecast,Oslo,2025-11-24,-8.0,85,5.0,0.0,Sunny
+forecast,Oslo,2025-11-25,-2.8,94,19.4,0.04,Freezing fog
+forecast,Oslo,2025-11-26,0.5,98,21.2,6.42,Heavy snow
+forecast,Oslo,2025-11-27,-4.6,97,5.0,0.05,Freezing fog
+forecast,Oslo,2025-11-28,-7.0,97,4.7,0.0,Freezing fog
+forecast,Oslo,2025-11-29,-1.9,98,6.1,5.43,Light rain
+forecast,Oslo,2025-11-30,-0.5,95,12.2,0.05,Mist
+forecast,Oslo,2025-12-01,-7.2,96,6.1,0.0,Mist
+forecast,Beijing,2025-11-19,7.1,27,10.8,0.0,Sunny
+forecast,Beijing,2025-11-20,8.3,20,18.4,0.0,Sunny
+forecast,Beijing,2025-11-21,8.3,25,6.5,0.0,Sunny
+forecast,Beijing,2025-11-22,7.9,26,6.5,0.0,Sunny
+forecast,Beijing,2025-11-23,9.0,27,6.8,0.0,Sunny
+forecast,Beijing,2025-11-24,8.2,27,22.7,0.0,Sunny
+forecast,Beijing,2025-11-25,7.5,27,9.4,0.0,Sunny
+forecast,Beijing,2025-11-26,8.3,30,7.6,0.0,Sunny
+forecast,Beijing,2025-11-27,9.1,29,10.8,0.0,Overcast 
+forecast,Beijing,2025-11-28,2.3,18,28.8,0.0,Sunny
+forecast,Beijing,2025-11-29,0.3,14,25.2,0.0,Sunny
+forecast,Beijing,2025-11-30,1.9,18,18.7,0.0,Sunny
+forecast,Beijing,2025-12-01,3.2,23,9.7,0.0,Sunny
+forecast,Beijing,2025-12-02,6.4,21,25.6,0.0,Sunny
+forecast,New York,2025-11-18,5.0,50,22.7,0.0,Sunny
+forecast,New York,2025-11-19,4.6,69,12.2,0.0,Partly Cloudy 
+forecast,New York,2025-11-20,4.5,76,7.9,0.0,Overcast 
+forecast,New York,2025-11-21,8.8,90,13.3,9.0,Moderate rain
+forecast,New York,2025-11-22,7.9,73,25.2,4.7,Patchy rain nearby
+forecast,New York,2025-11-23,5.2,53,14.0,0.0,Sunny
+forecast,New York,2025-11-24,7.3,60,17.6,0.0,Partly Cloudy 
+forecast,New York,2025-11-25,8.2,53,9.4,0.0,Sunny
+forecast,New York,2025-11-26,10.6,74,13.0,0.07,Partly Cloudy 
+forecast,New York,2025-11-27,14.5,82,14.8,0.22,Patchy rain nearby
+forecast,New York,2025-11-28,8.0,50,29.9,0.0,Partly Cloudy 
+forecast,New York,2025-11-29,4.1,51,31.3,0.0,Partly Cloudy 
+forecast,New York,2025-11-30,5.1,47,16.2,0.0,Sunny
+forecast,New York,2025-12-01,8.2,63,36.7,3.09,Patchy rain nearby
+forecast,Miami,2025-11-18,23.1,72,16.9,0.02,Sunny
+forecast,Miami,2025-11-19,24.9,75,27.0,0.0,Sunny
+forecast,Miami,2025-11-20,24.2,71,21.6,0.0,Partly Cloudy 
+forecast,Miami,2025-11-21,25.3,71,21.6,2.51,Patchy rain nearby
+forecast,Miami,2025-11-22,24.6,73,18.4,1.07,Patchy rain nearby
+forecast,Miami,2025-11-23,25.1,67,16.2,0.01,Sunny
+forecast,Miami,2025-11-24,24.7,70,15.8,0.25,Patchy rain nearby
+forecast,Miami,2025-11-25,25.2,70,21.2,0.51,Patchy rain nearby
+forecast,Miami,2025-11-26,25.4,70,19.4,0.13,Patchy rain nearby
+forecast,Miami,2025-11-27,25.4,73,16.9,0.42,Patchy rain nearby
+forecast,Miami,2025-11-28,25.5,70,20.2,0.71,Patchy rain nearby
+forecast,Miami,2025-11-29,24.9,69,28.1,2.38,Patchy rain nearby
+forecast,Miami,2025-11-30,25.4,76,31.0,1.36,Patchy rain nearby
+forecast,Miami,2025-12-01,25.7,77,23.8,1.76,Patchy rain nearby
+forecast,Rome,2025-11-18,14.1,88,14.0,17.18,Moderate rain
+forecast,Rome,2025-11-19,14.0,72,12.6,0.45,Patchy rain nearby
+forecast,Rome,2025-11-20,13.8,69,19.8,5.47,Moderate rain
+forecast,Rome,2025-11-21,11.5,61,17.3,0.4,Patchy rain nearby
+forecast,Rome,2025-11-22,7.8,69,24.5,0.0,Sunny
+forecast,Rome,2025-11-23,6.5,69,11.2,0.97,Patchy rain nearby
+forecast,Rome,2025-11-24,7.1,74,12.6,0.0,Sunny
+forecast,Rome,2025-11-25,7.4,71,14.0,1.93,Patchy rain nearby
+forecast,Rome,2025-11-26,6.6,72,11.9,0.0,Sunny
+forecast,Rome,2025-11-27,8.3,72,12.6,0.1,Patchy rain nearby
+forecast,Rome,2025-11-28,10.0,77,9.0,0.0,Sunny
+forecast,Rome,2025-11-29,10.9,74,7.2,0.0,Sunny
+forecast,Rome,2025-11-30,11.3,66,7.9,0.0,Sunny
+forecast,Rome,2025-12-01,11.8,67,6.5,0.0,Sunny
+forecast,Los Angeles,2025-11-18,12.2,87,12.6,0.25,Patchy rain nearby
+forecast,Los Angeles,2025-11-19,10.8,95,15.1,0.0,Fog
+forecast,Los Angeles,2025-11-20,10.8,93,21.2,4.12,Patchy rain nearby
+forecast,Los Angeles,2025-11-21,14.2,69,22.7,10.22,Moderate rain
+forecast,Los Angeles,2025-11-22,15.5,56,7.9,0.05,Partly Cloudy 
+forecast,Los Angeles,2025-11-23,17.6,43,10.1,0.0,Partly Cloudy 
+forecast,Los Angeles,2025-11-24,17.6,48,10.8,0.0,Sunny
+forecast,Los Angeles,2025-11-25,16.9,57,9.0,0.0,Partly Cloudy 
+forecast,Los Angeles,2025-11-26,17.3,51,9.7,0.0,Sunny
+forecast,Los Angeles,2025-11-27,18.4,37,9.7,0.0,Sunny
+forecast,Los Angeles,2025-11-28,18.3,40,8.6,0.0,Sunny
+forecast,Los Angeles,2025-11-29,16.4,66,9.4,0.0,Sunny
+forecast,Los Angeles,2025-11-30,15.8,46,8.6,0.0,Sunny
+forecast,Los Angeles,2025-12-01,16.3,19,10.1,0.0,Sunny
+forecast,London,2025-11-18,4.6,76,15.1,0.2,Patchy rain nearby
+forecast,London,2025-11-19,3.6,85,29.9,9.41,Moderate rain
+forecast,London,2025-11-20,1.8,71,22.0,0.0,Sunny
+forecast,London,2025-11-21,2.6,66,15.5,0.01,Partly Cloudy 
+forecast,London,2025-11-22,6.4,88,22.0,6.98,Moderate rain
+forecast,London,2025-11-23,5.9,84,16.2,0.02,Partly Cloudy 
+forecast,London,2025-11-24,6.2,79,16.6,0.0,Partly Cloudy 
+forecast,London,2025-11-25,7.7,88,18.4,1.13,Patchy rain nearby
+forecast,London,2025-11-26,10.7,83,20.2,1.52,Patchy rain nearby
+forecast,London,2025-11-27,7.2,82,17.3,0.01,Partly Cloudy 
+forecast,London,2025-11-28,10.8,89,24.5,1.32,Patchy rain nearby
+forecast,London,2025-11-29,13.0,81,26.3,0.69,Patchy rain nearby
+forecast,London,2025-11-30,9.3,83,16.2,0.58,Patchy rain nearby
+forecast,London,2025-12-01,8.9,86,29.5,3.71,Patchy rain nearby
+forecast,Tokyo,2025-11-19,11.1,41,23.0,0.0,Sunny
+forecast,Tokyo,2025-11-20,11.9,40,16.2,0.0,Sunny
+forecast,Tokyo,2025-11-21,12.9,38,11.5,0.0,Sunny
+forecast,Tokyo,2025-11-22,13.1,46,16.9,0.0,Sunny
+forecast,Tokyo,2025-11-23,13.4,57,14.0,0.0,Overcast 
+forecast,Tokyo,2025-11-24,14.7,51,7.6,0.0,Partly Cloudy 
+forecast,Tokyo,2025-11-25,15.0,44,20.5,0.0,Sunny
+forecast,Tokyo,2025-11-26,13.3,48,22.3,0.0,Sunny
+forecast,Tokyo,2025-11-27,14.8,49,14.8,0.23,Patchy rain nearby
+forecast,Tokyo,2025-11-28,14.7,42,10.1,0.0,Sunny
+forecast,Tokyo,2025-11-29,14.6,48,43.2,0.0,Sunny
+forecast,Tokyo,2025-11-30,9.2,38,32.0,0.21,Patchy rain nearby
+forecast,Tokyo,2025-12-01,9.1,27,26.3,0.0,Sunny
+forecast,Tokyo,2025-12-02,10.1,36,28.4,0.0,Sunny
+forecast,Canberra,2025-11-19,18.2,49,27.7,0.0,Sunny
+forecast,Canberra,2025-11-20,16.8,58,25.6,1.14,Patchy rain nearby
+forecast,Canberra,2025-11-21,11.7,73,19.8,0.36,Patchy rain nearby
+forecast,Canberra,2025-11-22,14.6,68,23.4,0.06,Partly Cloudy 
+forecast,Canberra,2025-11-23,15.6,65,20.9,0.01,Partly Cloudy 
+forecast,Canberra,2025-11-24,16.5,74,23.0,0.0,Partly Cloudy 
+forecast,Canberra,2025-11-25,22.1,58,27.7,0.0,Sunny
+forecast,Canberra,2025-11-26,19.6,54,33.1,0.02,Partly Cloudy 
+forecast,Canberra,2025-11-27,15.8,45,21.6,0.0,Sunny
+forecast,Canberra,2025-11-28,15.3,63,18.0,0.0,Partly Cloudy 
+forecast,Canberra,2025-11-29,18.5,52,18.0,0.0,Sunny
+forecast,Canberra,2025-11-30,21.9,49,34.2,0.01,Sunny
+forecast,Canberra,2025-12-01,16.4,79,41.4,30.67,Heavy rain
+forecast,Canberra,2025-12-02,9.6,80,27.0,0.27,Patchy rain nearby
+forecast,Bogota,2025-11-18,11.5,94,5.0,8.9,Moderate rain
+forecast,Bogota,2025-11-19,11.7,92,2.5,19.43,Moderate rain
+forecast,Bogota,2025-11-20,11.9,91,3.6,15.2,Moderate rain
+forecast,Bogota,2025-11-21,12.0,88,4.0,16.47,Moderate rain
+forecast,Bogota,2025-11-22,11.2,89,3.6,1.7,Patchy rain nearby
+forecast,Bogota,2025-11-23,12.6,87,2.5,3.03,Patchy rain nearby
+forecast,Bogota,2025-11-24,12.7,89,3.6,3.35,Patchy rain nearby
+forecast,Bogota,2025-11-25,12.4,90,3.6,2.41,Patchy rain nearby
+forecast,Bogota,2025-11-26,12.6,86,4.7,2.32,Patchy rain nearby
+forecast,Bogota,2025-11-27,12.2,83,4.7,1.39,Patchy rain nearby
+forecast,Bogota,2025-11-28,12.2,87,5.4,3.28,Patchy rain nearby
+forecast,Bogota,2025-11-29,11.8,91,4.0,3.49,Patchy rain nearby
+forecast,Bogota,2025-11-30,12.4,89,4.0,3.04,Patchy rain nearby
+forecast,Bogota,2025-12-01,12.3,89,3.6,3.54,Patchy rain nearby
+forecast,Johannesburg,2025-11-18,17.7,53,9.7,0.01,Sunny
+forecast,Johannesburg,2025-11-19,20.4,43,11.9,0.05,Sunny
+forecast,Johannesburg,2025-11-20,18.7,62,22.0,0.44,Patchy rain nearby
+forecast,Johannesburg,2025-11-21,19.4,62,17.6,3.43,Patchy rain nearby
+forecast,Johannesburg,2025-11-22,19.4,60,16.9,0.38,Patchy rain nearby
+forecast,Johannesburg,2025-11-23,21.9,48,17.3,0.93,Patchy rain nearby
+forecast,Johannesburg,2025-11-24,19.4,65,23.0,3.54,Patchy rain nearby
+forecast,Johannesburg,2025-11-25,21.7,52,20.2,0.0,Sunny
+forecast,Johannesburg,2025-11-26,20.9,56,23.4,0.54,Patchy rain nearby
+forecast,Johannesburg,2025-11-27,18.7,52,23.0,0.0,Sunny
+forecast,Johannesburg,2025-11-28,14.9,61,19.1,0.04,Patchy rain nearby
+forecast,Johannesburg,2025-11-29,18.4,51,17.3,0.01,Sunny
+forecast,Johannesburg,2025-11-30,20.0,49,13.3,0.97,Patchy rain nearby
+forecast,Johannesburg,2025-12-01,18.6,66,21.6,10.51,Moderate rain

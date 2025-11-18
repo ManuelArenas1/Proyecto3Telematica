@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "Johannesburg",
+        "region": "Gauteng",
+        "country": "South Africa",
+        "lat": -26.2,
+        "lon": 28.0833,
+        "tz_id": "Africa/Johannesburg",
+        "localtime_epoch": 1763493268,
+        "localtime": "2025-11-18 21:14"
+    },
+    "current": {
+        "last_updated_epoch": 1763492400,
+        "last_updated": "2025-11-18 21:00",
+        "temp_c": 17.1,
+        "temp_f": 62.8,
+        "is_day": 0,
+        "condition": {
+            "text": "Partly Cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+            "code": 1003
+        },
+        "wind_mph": 5.1,
+        "wind_kph": 8.3,
+        "wind_degree": 262,
+        "wind_dir": "W",
+        "pressure_mb": 1022.0,
+        "pressure_in": 30.18,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 72,
+        "cloud": 0,
+        "feelslike_c": 17.1,
+        "feelslike_f": 62.8,
+        "windchill_c": 19.0,
+        "windchill_f": 66.2,
+        "heatindex_c": 19.0,
+        "heatindex_f": 66.2,
+        "dewpoint_c": 7.0,
+        "dewpoint_f": 44.7,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 7.7,
+        "gust_kph": 12.3,
+        "air_quality": {
+            "co": 1008.85,
+            "no2": 41.65,
+            "o3": 102.0,
+            "so2": 39.75,
+            "pm2_5": 36.15,
+            "pm10": 36.25,
+            "us-epa-index": 2,
+            "gb-defra-index": 4
+        },
+        "short_rad": 0,
+        "diff_rad": 0,
+        "dni": 0,
+        "gti": 0
+    }
+}

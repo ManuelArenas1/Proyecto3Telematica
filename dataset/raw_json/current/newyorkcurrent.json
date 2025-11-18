@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "New York",
+        "region": "New York",
+        "country": "United States of America",
+        "lat": 40.7142,
+        "lon": -74.0064,
+        "tz_id": "America/New_York",
+        "localtime_epoch": 1763492731,
+        "localtime": "2025-11-18 14:05"
+    },
+    "current": {
+        "last_updated_epoch": 1763492400,
+        "last_updated": "2025-11-18 14:00",
+        "temp_c": 7.2,
+        "temp_f": 45.0,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 13.2,
+        "wind_kph": 21.2,
+        "wind_degree": 294,
+        "wind_dir": "WNW",
+        "pressure_mb": 1021.0,
+        "pressure_in": 30.14,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 36,
+        "cloud": 0,
+        "feelslike_c": 3.7,
+        "feelslike_f": 38.7,
+        "windchill_c": 6.5,
+        "windchill_f": 43.7,
+        "heatindex_c": 9.3,
+        "heatindex_f": 48.7,
+        "dewpoint_c": -3.2,
+        "dewpoint_f": 26.3,
+        "vis_km": 16.0,
+        "vis_miles": 9.0,
+        "uv": 1.0,
+        "gust_mph": 15.9,
+        "gust_kph": 25.7,
+        "air_quality": {
+            "co": 462.85,
+            "no2": 45.95,
+            "o3": 19.0,
+            "so2": 6.55,
+            "pm2_5": 14.75,
+            "pm10": 14.95,
+            "us-epa-index": 1,
+            "gb-defra-index": 2
+        },
+        "short_rad": 245.02,
+        "diff_rad": 126.25,
+        "dni": 0.0,
+        "gti": 116.9
+    }
+}

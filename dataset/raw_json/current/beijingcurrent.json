@@ -1,0 +1,61 @@
+{
+    "location": {
+        "name": "Beijing",
+        "region": "Beijing",
+        "country": "China",
+        "lat": 39.9289,
+        "lon": 116.3883,
+        "tz_id": "Asia/Shanghai",
+        "localtime_epoch": 1763492636,
+        "localtime": "2025-11-19 03:03"
+    },
+    "current": {
+        "last_updated_epoch": 1763492400,
+        "last_updated": "2025-11-19 03:00",
+        "temp_c": 4.3,
+        "temp_f": 39.7,
+        "is_day": 0,
+        "condition": {
+            "text": "Clear",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.9,
+        "wind_kph": 4.7,
+        "wind_degree": 334,
+        "wind_dir": "NNW",
+        "pressure_mb": 1029.0,
+        "pressure_in": 30.39,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 38,
+        "cloud": 0,
+        "feelslike_c": 3.4,
+        "feelslike_f": 38.2,
+        "windchill_c": 3.3,
+        "windchill_f": 38.0,
+        "heatindex_c": 4.2,
+        "heatindex_f": 39.6,
+        "dewpoint_c": -11.8,
+        "dewpoint_f": 10.7,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 0.0,
+        "gust_mph": 5.2,
+        "gust_kph": 8.3,
+        "air_quality": {
+            "co": 2128.85,
+            "no2": 70.65,
+            "o3": 0.0,
+            "so2": 66.35,
+            "pm2_5": 113.55,
+            "pm10": 133.55,
+            "us-epa-index": 4,
+            "gb-defra-index": 10
+        },
+        "short_rad": 0,
+        "diff_rad": 0,
+        "dni": 0,
+        "gti": 0
+    }
+}
