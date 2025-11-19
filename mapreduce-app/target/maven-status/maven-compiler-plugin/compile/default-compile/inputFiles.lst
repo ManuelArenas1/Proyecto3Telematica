@@ -1,4 +1,7 @@
 /home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/WeatherAverageTempMapper.java
 /home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/WeatherAverageTempDriver.java
+/home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/WeatherAverageHumidityDriver.java
+/home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/WeatherAverageHumidityReducer.java
 /home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/WeatherAverageTempReducer.java
+/home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/WeatherAverageHumidityMapper.java
 /home/manuel/proyecto3Telematica/mapreduce-app/src/main/java/com/eafit/hadoop/App.java
