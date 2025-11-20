@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Weather Processing - Both Jobs",
+    "ActionOnFailure": "CONTINUE",
+    "Type": "CUSTOM_JAR",
+    "Jar": "s3://telematica-weather-bucket/jobs/mapreduce-app-1.0.jar",
+    "MainClass": "com.eafit.hadoop.DriverMaster",
+    "Args": [
+      "both",
+      "s3://telematica-weather-bucket/input/",
+      "s3://telematica-weather-bucket/output_temp/",
+      "s3://telematica-weather-bucket/output_humi/"
+    ]
+  }
+]

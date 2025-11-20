@@ -37,3 +37,7 @@ y en linea se muestra la siguiente información:
 Para poder ejecutar el codigo, se generaron archivos de shell donde se carga la configuracion de los .jar a archivos csv y este los deja en el /output para luego ser procesados 
 
 se debe entrar como primero a la carpeta /mapreduce-app y desde alli ejecutar el ./run_job.sh de este modo todo se carga y se ejecuta, luego con aws se despliega la aapi utilizada (fastApi)
+
+
+# Diagrama Pipeline Trabajo
+![alt text](hadoop_dfs_diagram.png)

@@ -1,0 +1,11 @@
+Beijing	6.140001
+Bogota	12.713332
+Canberra	15.986667
+Johannesburg	19.146666
+London	6.933334
+Los Angeles	15.5
+Miami	25.106665
+New York	7.2799997
+Oslo	-4.54
+Rome	10.286667
+Tokyo	12.473332

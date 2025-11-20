@@ -9,11 +9,11 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
 public class WeatherAverageTempDriver {
 
-    public static void main(String[] args) throws Exception {
+    public static int main(String[] args) throws Exception {
 
         if (args.length != 2) {
             System.err.println("Uso: WeatherAverageTempDriver <input> <output>");
-            System.exit(-1);
+            return -1;
         }
 
         Configuration conf = new Configuration();
@@ -23,6 +23,8 @@ public class WeatherAverageTempDriver {
 
         job.setMapperClass(WeatherAverageTempMapper.class);
         job.setReducerClass(WeatherAverageTempReducer.class);
+        job.setNumReduceTasks(1);
+
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(FloatWritable.class);
@@ -30,6 +32,6 @@ public class WeatherAverageTempDriver {
         FileInputFormat.addInputPath(job, new Path(args[0]));
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
-        System.exit(job.waitForCompletion(true) ? 0 : 1);
+        return job.waitForCompletion(true) ? 0 : 1;
     }
 }

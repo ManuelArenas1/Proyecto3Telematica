@@ -1,0 +1,50 @@
+2025-11-20T18:31:25.114152241Z INFO Ensure step 9 jar file command-runner.jar
+2025-11-20T18:31:25.114961186Z INFO Running step with ProcessBuilder
+2025-11-20T18:31:25.115069539Z INFO StepRunner: Created Runner for step 9
+INFO startExec 'hadoop jar /var/lib/aws/emr/step-runner/hadoop-jars/command-runner.jar hadoop jar s3://telematica-weather-bucket/jars/mapreduce-app-1.0.jar com.eafit.hadoop.DriverMaster both s3://telematica-weather-bucket/input/ s3://telematica-weather-bucket/output_temp/ s3://telematica-weather-bucket/output_humi/'
+INFO Environment:
+  PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/opt/aws/puppet/bin/:/opt/puppetlabs/bin
+  INVOCATION_ID=c2c1be855b3647f79a7ef2b09ffcea18
+  SECURITY_PROPERTIES=/emr/instance-controller/lib/security.properties
+  HISTCONTROL=ignoredups
+  MANPATH=:/opt/puppetlabs/puppet/share/man
+  PIDFILE=/emr/instance-controller/run/instance-controller.pid
+  HISTSIZE=1000
+  HADOOP_ROOT_LOGGER=INFO,DRFA
+  AWS_DEFAULT_REGION=us-east-1
+  JAVA_HOME=/etc/alternatives/jre
+  BASH_FUNC_which%%=() {  ( alias; eval ${which_declare} ) | /usr/bin/which --tty-only --read-alias --read-functions --show-tilde --show-dot "$@"}
+  LANG=en_US.UTF-8
+  JOURNAL_STREAM=8:23442
+  MAIL=/var/spool/mail/hadoop
+  PLATFORM_TYPE=EMR_ON_EC2
+  which_declare=declare -f
+  LOGNAME=hadoop
+  PWD=/
+  HADOOP_CLIENT_OPTS=-Djava.io.tmpdir=/mnt/var/lib/hadoop/steps/s-02608811CI4NONVKQ14G/tmp
+  _=/usr/lib/jvm/jre-17/bin/java
+  S_COLORS=auto
+  LESSOPEN=||/usr/bin/lesspipe.sh %s
+  SHELL=/bin/bash
+  JOB_IDENTIFIER=j-1B2VGU14AC7F9/s-02608811CI4NONVKQ14G
+  USER=hadoop
+  GEM_HOME=/home/hadoop/.local/share/gem/ruby
+  HADOOP_LOGFILE=syslog
+  SYSTEMD_COLORS=false
+  HOSTNAME=ip-172-31-48-75.ec2.internal
+  HADOOP_LOG_DIR=/mnt/var/log/hadoop/steps/s-02608811CI4NONVKQ14G
+  SYSTEMD_EXEC_PID=4484
+  EMR_STEP_ID=s-02608811CI4NONVKQ14G
+  SHLVL=0
+  HOME=/home/hadoop
+  HADOOP_IDENT_STRING=hadoop
+INFO redirectOutput to /mnt/var/log/hadoop/steps/s-02608811CI4NONVKQ14G/stdout
+INFO redirectError to /mnt/var/log/hadoop/steps/s-02608811CI4NONVKQ14G/stderr
+INFO Working dir /mnt/var/lib/hadoop/steps/s-02608811CI4NONVKQ14G
+INFO ProcessRunner started child process 55129
+2025-11-20T18:31:25.117061356Z INFO HadoopJarStepRunner.Runner: startRun() called for s-02608811CI4NONVKQ14G Child Pid: 55129
+INFO Synchronously wait child process to complete : hadoop jar /var/lib/aws/emr/step-runner/hadoop-...
+INFO waitProcessCompletion ended with exit code 255 : hadoop jar /var/lib/aws/emr/step-runner/hadoop-...
+INFO total process run time: 2 seconds
+2025-11-20T18:31:27.208702685Z INFO Step created jobs: 
+2025-11-20T18:31:27.208834665Z WARN Step failed with exitCode 255 and took 2 seconds
