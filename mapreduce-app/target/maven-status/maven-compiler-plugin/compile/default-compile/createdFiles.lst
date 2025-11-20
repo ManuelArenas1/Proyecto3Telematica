@@ -1,6 +1,7 @@
 com/eafit/hadoop/App.class
 com/eafit/hadoop/WeatherAverageTempMapper.class
 com/eafit/hadoop/WeatherAverageHumidityReducer.class
+com/eafit/hadoop/DriverMaster.class
 com/eafit/hadoop/WeatherAverageTempReducer.class
 com/eafit/hadoop/WeatherAverageTempDriver.class
 com/eafit/hadoop/WeatherAverageHumidityMapper.class
