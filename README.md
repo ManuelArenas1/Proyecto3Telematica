@@ -44,7 +44,7 @@ para la ejecucion del proyecto en AWS como primero se necesita tener descargado 
 El comando para conectarse es el: aws configure
 y alli se llenan los datos de las llaves de acceso, region y formato.
 
-A la par de conectarse a AWS se tiene que generar un bucket donde se coloque la direccion al JAR que en el caso de este proyecto nuestro map reduce se encuentra en [text](mapreduce-app/target/mapreduce-app-1.0.jar)
+A la par de conectarse a AWS se tiene que generar un bucket donde se coloque la direccion al JAR que en el caso de este proyecto nuestro map reduce se encuentra en []](mapreduce-app/target/mapreduce-app-1.0.jar)
 
 Ademas se tiene que crear una funcion de lambda en donde se edite el codigo para que cuando reciba una solicitud de PUT este mande un nuevo step al EMR, otra forma de realizarlo es con compilar los archivos de java utilizando mvn clean package y luego con la direccion puesta antes, ejecutar el archivo de shell llamado add_step_emr.sh, que al igual que nuestra funcion lambda este va a subir al EMR todos los archivos y genera las direcciones /input/  /output_humi/ y /output_temp/
 
