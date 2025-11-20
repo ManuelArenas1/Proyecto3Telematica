@@ -13,6 +13,10 @@ Se filtra en la api de la siguiente manera:
 
 de ahi se genera un csv, con los resultados obtenidos de la API y luego se filtra en 2 jobs
 
+### Video Explicativo
+
+[Click aquí](https://youtu.be/ZSi15d_wJDQ)
+
 ### Jobs
 
 El primer job que hicimos fue sacar el promedio de temperatura de cada una de las ciudades elegidas,
